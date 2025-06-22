@@ -6,3 +6,7 @@ cd Camphish
 python3 server.py 
 # Than hit enter the server.py will run
 # You can check cloudflared is also installed in kali linux as well as Parrot os
+
+git clone https://github.com/sachinpandey7709/Sachin-Camphish.git
+cd Camphish
+python3 server.py
