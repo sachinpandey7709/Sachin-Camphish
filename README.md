@@ -2,6 +2,6 @@
 
 ```bash
 git clone https://github.com/sachinpandey7709/Sachin-Camphish.git
-cd Camphish
+cd Sachin-Camphish
 python3 server.py
 
